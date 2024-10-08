@@ -1,0 +1,10 @@
+2024-10-08 14:00:02,452 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-10-08 14:00:03,655 [1] INFO  AElfChain.Common.Managers.AccountManager - Account '9TZCnmLQV6756ACh9Dkov56wiBKBV43rKpg8iYMoqFLvTwHCg' successfully unlocked!
+2024-10-08 14:00:05,336 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Token contract address: ASh2Wt7nSEmYqnGxPPzp4pnVDU4uhj1XW9Se5VeZcX2UDdyjx
+2024-10-08 14:00:05,731 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Consensus contract address: 2KPUA5wG78nnNmK9JsRWbFiEFUEfei9WKniZuKaVziDKZRwchM
+2024-10-08 14:00:07,265 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Parliament contract address: vcv1qewcsFN2tVWqLuu7DJ5wVFA8YEx5FFgCQBb1jMCbAQHxV
+2024-10-08 14:16:59,734 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-10-08 14:16:59,885 [1] INFO  AElfChain.Common.Managers.AccountManager - Account '9TZCnmLQV6756ACh9Dkov56wiBKBV43rKpg8iYMoqFLvTwHCg' successfully unlocked!
+2024-10-08 14:17:00,595 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Token contract address: ASh2Wt7nSEmYqnGxPPzp4pnVDU4uhj1XW9Se5VeZcX2UDdyjx
+2024-10-08 14:17:00,863 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Consensus contract address: 2KPUA5wG78nnNmK9JsRWbFiEFUEfei9WKniZuKaVziDKZRwchM
+2024-10-08 14:17:01,170 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Parliament contract address: vcv1qewcsFN2tVWqLuu7DJ5wVFA8YEx5FFgCQBb1jMCbAQHxV

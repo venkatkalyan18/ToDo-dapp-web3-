@@ -1,0 +1,129 @@
+2024-10-08 14:05:57.334 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:05:57.499 +05:30 [ERR] Path cannot be null. (Parameter 'path')
+System.ArgumentNullException: Path cannot be null. (Parameter 'path')
+   at System.IO.Strategies.FileStreamHelpers.ValidateArguments(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytesAsync(String path, CancellationToken cancellationToken)
+   at AElf.Cli.Commands.DeployCommand.ExecuteAsync(CommandLineArgs commandLineArgs) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/Commands/DeployCommand.cs:line 37
+   at AElf.Cli.AElfCliService.RunAsync(String[] args) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/AElfCliService.cs:line 52
+2024-10-08 14:06:22.353 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:06:22.390 +05:30 [INF] 
+Usage:
+
+    aelf <command> <target> [options]
+
+Command List:
+
+    > help: Show command line help. Write ` aelf help <command> `
+    > start: Start an AElf blockchain node on local machine.
+    > accounts: Manage local aelf blockchain accounts.
+    > create 
+    > new: Generates a new contract development solution based on the AElf Boilerplate templates.
+    > call: Call a read-only method on a contract.
+    > send: Execute a method on a contract.
+    > config: Get, set, delete or list aelf cli config.
+    > faucet: Take test token from AElf Test Net.
+    > oasis: AElf Top Of Oasis.
+    > deploy: Deploy or update a smart contract
+    > token: Create a new token in AElf MultiToken Contract.
+
+To get a detailed help for a command:
+
+    aelf help <command>
+
+
+2024-10-08 14:06:26.447 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:06:26.472 +05:30 [INF] 
+Usage:
+
+    aelf <command> <target> [options]
+
+Command List:
+
+    > help: Show command line help. Write ` aelf help <command> `
+    > start: Start an AElf blockchain node on local machine.
+    > accounts: Manage local aelf blockchain accounts.
+    > create 
+    > new: Generates a new contract development solution based on the AElf Boilerplate templates.
+    > call: Call a read-only method on a contract.
+    > send: Execute a method on a contract.
+    > config: Get, set, delete or list aelf cli config.
+    > faucet: Take test token from AElf Test Net.
+    > oasis: AElf Top Of Oasis.
+    > deploy: Deploy or update a smart contract
+    > token: Create a new token in AElf MultiToken Contract.
+
+To get a detailed help for a command:
+
+    aelf help <command>
+
+
+2024-10-08 14:10:51.752 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:10:51.783 +05:30 [ERR] Path cannot be null. (Parameter 'path')
+System.ArgumentNullException: Path cannot be null. (Parameter 'path')
+   at System.IO.Strategies.FileStreamHelpers.ValidateArguments(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytesAsync(String path, CancellationToken cancellationToken)
+   at AElf.Cli.Commands.DeployCommand.ExecuteAsync(CommandLineArgs commandLineArgs) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/Commands/DeployCommand.cs:line 37
+   at AElf.Cli.AElfCliService.RunAsync(String[] args) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/AElfCliService.cs:line 52
+2024-10-08 14:12:12.116 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:12:12.138 +05:30 [ERR] Path cannot be null. (Parameter 'path')
+System.ArgumentNullException: Path cannot be null. (Parameter 'path')
+   at System.IO.Strategies.FileStreamHelpers.ValidateArguments(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytesAsync(String path, CancellationToken cancellationToken)
+   at AElf.Cli.Commands.DeployCommand.ExecuteAsync(CommandLineArgs commandLineArgs) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/Commands/DeployCommand.cs:line 37
+   at AElf.Cli.AElfCliService.RunAsync(String[] args) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/AElfCliService.cs:line 52
+2024-10-08 14:12:14.275 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:12:14.299 +05:30 [ERR] Path cannot be null. (Parameter 'path')
+System.ArgumentNullException: Path cannot be null. (Parameter 'path')
+   at System.IO.Strategies.FileStreamHelpers.ValidateArguments(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytesAsync(String path, CancellationToken cancellationToken)
+   at AElf.Cli.Commands.DeployCommand.ExecuteAsync(CommandLineArgs commandLineArgs) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/Commands/DeployCommand.cs:line 37
+   at AElf.Cli.AElfCliService.RunAsync(String[] args) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/AElfCliService.cs:line 52
+2024-10-08 14:13:11.908 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:13:11.957 +05:30 [ERR] Path cannot be null. (Parameter 'path')
+System.ArgumentNullException: Path cannot be null. (Parameter 'path')
+   at System.IO.Strategies.FileStreamHelpers.ValidateArguments(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytesAsync(String path, CancellationToken cancellationToken)
+   at AElf.Cli.Commands.DeployCommand.ExecuteAsync(CommandLineArgs commandLineArgs) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/Commands/DeployCommand.cs:line 37
+   at AElf.Cli.AElfCliService.RunAsync(String[] args) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/AElfCliService.cs:line 52
+2024-10-08 14:13:18.601 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:13:18.625 +05:30 [ERR] Path cannot be null. (Parameter 'path')
+System.ArgumentNullException: Path cannot be null. (Parameter 'path')
+   at System.IO.Strategies.FileStreamHelpers.ValidateArguments(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytesAsync(String path, CancellationToken cancellationToken)
+   at AElf.Cli.Commands.DeployCommand.ExecuteAsync(CommandLineArgs commandLineArgs) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/Commands/DeployCommand.cs:line 37
+   at AElf.Cli.AElfCliService.RunAsync(String[] args) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/AElfCliService.cs:line 52
+2024-10-08 14:13:35.043 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:13:35.067 +05:30 [ERR] Path cannot be null. (Parameter 'path')
+System.ArgumentNullException: Path cannot be null. (Parameter 'path')
+   at System.IO.Strategies.FileStreamHelpers.ValidateArguments(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytesAsync(String path, CancellationToken cancellationToken)
+   at AElf.Cli.Commands.DeployCommand.ExecuteAsync(CommandLineArgs commandLineArgs) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/Commands/DeployCommand.cs:line 37
+   at AElf.Cli.AElfCliService.RunAsync(String[] args) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/AElfCliService.cs:line 52
+2024-10-08 14:14:53.154 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:14:53.183 +05:30 [ERR] Path cannot be null. (Parameter 'path')
+System.ArgumentNullException: Path cannot be null. (Parameter 'path')
+   at System.IO.Strategies.FileStreamHelpers.ValidateArguments(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytesAsync(String path, CancellationToken cancellationToken)
+   at AElf.Cli.Commands.DeployCommand.ExecuteAsync(CommandLineArgs commandLineArgs) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/Commands/DeployCommand.cs:line 37
+   at AElf.Cli.AElfCliService.RunAsync(String[] args) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/AElfCliService.cs:line 52
+2024-10-08 14:15:14.513 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:15:14.542 +05:30 [ERR] Path cannot be null. (Parameter 'path')
+System.ArgumentNullException: Path cannot be null. (Parameter 'path')
+   at System.IO.Strategies.FileStreamHelpers.ValidateArguments(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytesAsync(String path, CancellationToken cancellationToken)
+   at AElf.Cli.Commands.DeployCommand.ExecuteAsync(CommandLineArgs commandLineArgs) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/Commands/DeployCommand.cs:line 37
+   at AElf.Cli.AElfCliService.RunAsync(String[] args) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/AElfCliService.cs:line 52
+2024-10-08 14:16:16.179 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 14:16:16.202 +05:30 [ERR] Path cannot be null. (Parameter 'path')
+System.ArgumentNullException: Path cannot be null. (Parameter 'path')
+   at System.IO.Strategies.FileStreamHelpers.ValidateArguments(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytesAsync(String path, CancellationToken cancellationToken)
+   at AElf.Cli.Commands.DeployCommand.ExecuteAsync(CommandLineArgs commandLineArgs) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/Commands/DeployCommand.cs:line 37
+   at AElf.Cli.AElfCliService.RunAsync(String[] args) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/AElfCliService.cs:line 52
+2024-10-08 15:15:06.890 +05:30 [INF] AElf Cli (https://aelf.io)
+2024-10-08 15:15:06.921 +05:30 [ERR] Path cannot be null. (Parameter 'path')
+System.ArgumentNullException: Path cannot be null. (Parameter 'path')
+   at System.IO.Strategies.FileStreamHelpers.ValidateArguments(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.ReadAllBytesAsync(String path, CancellationToken cancellationToken)
+   at AElf.Cli.Commands.DeployCommand.ExecuteAsync(CommandLineArgs commandLineArgs) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/Commands/DeployCommand.cs:line 37
+   at AElf.Cli.AElfCliService.RunAsync(String[] args) in /Users/eanzhao/Code/aelf-cli/src/AElf.Cli/AElfCliService.cs:line 52
